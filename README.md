@@ -41,19 +41,19 @@
 
 Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs/en/emoji-key)):
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or mod ify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
     <tbody>
         <tr>
         <td align="center">
-                <a href="https://github.com/keshavlohani">
-                    <img src="https://avatars.githubusercontent.com/u/14288181?v=4" width="100px;"
-                        alt="Keshav Lohani" />
+                <a href="https://github.com/rishika098-hubb">
+                    <img src="https://avatars.githubusercontent.com/u/212010283?v=4" width="100px;"
+                        alt="Rishika chanthati" />
                     <br />
                     <sub>
-                        <b>Keshav Lohani</b>
+                        <b>Rishika chanthati </b>
                     </sub>
                 </a>
             </td>
